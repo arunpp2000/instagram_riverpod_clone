@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "842326537974",
+    "project_id": "night-club-bbc5e",
+    "storage_bucket": "night-club-bbc5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842326537974:android:168c9f9b043f625225ded7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_todo_firebase_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfB0uVpUuyuGRIqrdJdoul7Y0zdA5UyGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842326537974:android:9d9a985f2e74ac8225ded7",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_riverpod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfB0uVpUuyuGRIqrdJdoul7Y0zdA5UyGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842326537974:android:26f0412e080a6b1625ded7",
+        "android_client_info": {
+          "package_name": "com.example.instagram_riverpod_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfB0uVpUuyuGRIqrdJdoul7Y0zdA5UyGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842326537974:android:f3fa5f9375e772e925ded7",
+        "android_client_info": {
+          "package_name": "com.example.todo_firebase_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfB0uVpUuyuGRIqrdJdoul7Y0zdA5UyGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
